@@ -1,0 +1,166 @@
+body{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding: 20px;
+}
+.contener{
+    width: 1337px;
+    margin: 0 auto;
+    max-width: 1337px;
+}
+.img-png{
+   display: flex;
+justify-content: space-between;
+}
+header{
+    margin-bottom: 489px ;
+}
+.GReeenco{
+ filter: contrast(400%);
+}
+.plant{
+    position: relative;
+    left: 500px;
+   bottom: 410px;
+}
+.Retengle_2{
+    padding: 20px;
+    position:absolute;
+   right: 0;
+   left: 0;
+    height: 793px;
+    background-color:rgba(74, 74, 74, 1);
+}
+.Banner{
+    max-height: 602px;
+}
+.annie-spratt{
+    z-index: 3;
+    position: relative;
+    top: 141px;
+    display: inline-block;
+}
+.message{
+    
+    padding-top: 475px;
+}
+.Lorem{
+   color: rgb(255, 255, 255);
+   width: 430px;
+   height: 419px;
+display: inline-block;
+margin-right: 83px;
+}
+
+.Lorem h2{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 81px;
+    letter-spacing: 19px;
+}
+.Mukta-Vaani{
+font-size: 24px;
+    font-family: 'Mukta Vaani', sans-serif;
+}
+.Next{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+display: inline-block;
+}
+.Potted_cacti{
+position: relative;
+top: 194px;
+display: inline-block;
+left: 137px;
+height: 419px;
+width: 530px;
+}
+
+.VIEW_GALLERY{
+    border: 3px solid;
+    padding: 15px 48px 15px 48px;
+    color:rgba(122, 121, 122, 1);
+margin-left: 777px;
+    font-size: 36px;
+    display: inline-block;
+    letter-spacing: 8px;
+}
+.Arrow{
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+margin-left: 59px;
+
+}
+.btGallery{
+    position: relative;
+}
+.ContentEnd{
+    width:1019px;
+    height:618px ;
+    margin: 0 auto;
+    margin-top: 292px;
+    position: relative;
+}
+.TEXT{
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    color: rgb(0, 0, 0);     
+    width: 0;      
+    line-height: 115%;
+    word-break: break-all;
+    font-size: 48px;
+    margin-right: 24px;
+}
+
+.OneImg{
+    font-family: 'Mukta Vaani', sans-serif;
+    display: inline-block;
+    margin-left: 50px;
+    text-align: center;
+    font-size: 24px;
+}
+.TwoImg{
+    display: inline-block;
+    text-align: center;
+    margin-left: 10px;
+    font-family: 'Mukta Vaani', sans-serif;
+    font-size: 24px;
+ position: absolute;
+ top: 0;
+}
+.VIEW_GALLERY2{
+    border: 3px solid;
+    padding: 15px 48px 15px 48px;
+    color:rgba(122, 121, 122, 1);
+   
+    font-size: 36px;
+    display: inline-block;
+    letter-spacing: 8px;
+}
+.btGallery2{
+    position: relative;
+    margin-top: 110px;
+ margin-left: 45%;
+
+}
+.PlantEnd{
+    position: absolute;
+    left:107px;
+
+}
+
+@media(max-width:1200px){
+.Retengle_2{
+    display: none;
+}
+.Lorem{
+    color: black;
+}
+.annie-spratt{
+    display: none;
+}
+
+}
+
